@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">a 3rd year BS IT student from the University of San Carlos.<br><br>☁️ just crying and vibing 24/7<br>....</p>
+<p align="left">a 3rd year BS IT student from the University of San Carlos.</p>
 
 ###
 
