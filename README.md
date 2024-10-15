@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋 i'm hen :)</h1>
+<h1 align="center">hey there 👋 i'm heneg :)</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">a 3rd year BS IT student from the University of San Carlos.</p>
+<p align="left">a BS IT student from the University of San Carlos.</p>
 
 ###
 
